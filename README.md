@@ -19,6 +19,8 @@ Artı puan kazandıracak şeyler:
 # Proje
 Proje Symfony 4.4 ile oluşturulmuştur. Authentication için ise jwt kullanılmıştır.
 
+Zamanım yetmediği için docker image ve unit testleri yetişmemiştir.
+
 ## Kurulum
 
 ```bash
